@@ -5,7 +5,7 @@ The Wireless Sensor Network example from my Dreamforce 2013 DF13 DevZoneLab sess
 
 Dreamforce 2013 Org Session Record:
 (registration required)
-
+https://dreamevent.my.salesforce.com/apex/ActivityList#a093000000XfGkBAAV
 
 Slideshare with Step By Step instructions:
 {Coming Soon}
